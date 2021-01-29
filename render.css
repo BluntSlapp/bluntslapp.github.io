@@ -1,0 +1,77 @@
+
+body {
+	background-image: url("res/starrybg.gif");
+	background-color: #000000;
+	}
+
+#ppclnk {
+	position: absolute;
+	left: 330px;
+	top: 650px;
+	padding: 0px;
+}
+
+#armlnk {
+	position: absolute;
+	padding: 0px;
+	left: 475px;
+	top: 650px;
+}
+
+#menu-home {
+	position: absolute;
+	padding: 0px;
+	left: 120px;
+	top: 650px;
+}
+
+#menu-pages {
+	position: absolute;
+	padding: 0px;
+	left: 120px;
+	top: 750px;
+}
+
+#menu-links{
+	position: absolute;
+	padding: 0px;
+	left: 120px;
+	top: 850px;
+}
+
+#pause {
+	position: absolute;
+	cursor: pointer;
+	padding: 3px;
+	right: 30px;
+	top: 30px;
+}
+
+#play {
+	position: absolute;
+	cursor: pointer;
+	padding: 5px;
+	right: 80px;
+	top: 28px;
+}
+
+#pwrdbybsd {
+	position: absolute;
+	padding: 10px;
+	right: 75px;
+	top: 650px;
+}
+
+#beyes {
+	position: absolute;
+	padding: 10px;
+	right: 110px;
+	top: 1250px;
+}
+
+#title {
+	position: center;
+	padding: 5px;
+}
+
+/* how the hell did people make sites before css lmao */
