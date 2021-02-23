@@ -7,7 +7,7 @@ body {
 #ppclnk {
 	position: absolute;
 	left: 250px;
-	top: 650px;
+	top: 400px;
 	padding: 0px;
 }
 
@@ -15,35 +15,35 @@ body {
 	position: absolute;
 	padding: 0px;
 	left: 245px;
-	top: 725px;
+	top: 475px;
 }
 
 #menu-home {
 	position: absolute;
 	padding: 0px;
 	left: 80px;
-	top: 650px;
+	top: 400px;
 }
 
 #menu-pages {
 	position: absolute;
 	padding: 0px;
 	left: 80px;
-	top: 750px;
+	top: 500px;
 }
 
 #menu-links{
 	position: absolute;
 	padding: 0px;
 	left: 80px;
-	top: 850px;
+	top: 600px;
 }
 
 #menu-about{
 	position: absolute;
 	padding: 0px;
 	left: 80px;
-	top: 950px;
+	top: 700px;
 }
 
 
@@ -67,21 +67,21 @@ body {
 	position: absolute;
 	padding: 10px;
 	right: 125px;
-	top: 1255px;
+	top: 1005px;
 }
 
 #beyes {
 	position: absolute;
 	padding: 10px;
 	right: 30px;
-	top: 1277px;
+	top: 1027px;
 }
 
 #snoopbar {
 	position: absolute;
 	padding: 0px;
 	right: 2px;
-	top: 785px;
+	top: 535px;
 }
 
 #title {
@@ -93,28 +93,28 @@ body {
 	position: absolute;
 	padding: 0px;
 	left: 250px;
-	top: 650px;
+	top: 400px;
 }
 
 #ppcbsd {
 	position: absolute;
 	padding: 0px;
 	left: 545px;
-	top: 665px;
+	top: 415px;
 }
 
 #ppclinux {
 	position: absolute;
 	padding: 0px;
 	left: 850px;
-	top: 650px;
+	top: 400px;
 }
 
 #codolra {
 	position: absolute;
 	padding: 0px;
 	left: 420px;
-	top: 650px;
+	top: 400px;
 }
 
 
@@ -129,7 +129,7 @@ body {
 #magmake {
 	position: absolute;
 	padding: 0px;
-	top: 650px;
+	top: 400px;
 	left: 700px;
 }
 
