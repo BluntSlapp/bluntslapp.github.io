@@ -1,0 +1,131 @@
+
+body {
+	background-image: url("res/purpletexture.png");
+	background-color: #000000;
+	}
+
+#ppclnk {
+	position: absolute;
+	left: 250px;
+	top: 650px;
+	padding: 0px;
+}
+
+#armlnk {
+	position: absolute;
+	padding: 0px;
+	left: 245px;
+	top: 725px;
+}
+
+#menu-home {
+	position: absolute;
+	padding: 0px;
+	left: 80px;
+	top: 650px;
+}
+
+#menu-pages {
+	position: absolute;
+	padding: 0px;
+	left: 80px;
+	top: 750px;
+}
+
+#menu-links{
+	position: absolute;
+	padding: 0px;
+	left: 80px;
+	top: 850px;
+}
+
+#menu-about{
+	position: absolute;
+	padding: 0px;
+	left: 80px;
+	top: 950px;
+}
+
+
+#pause {
+	position: absolute;
+	cursor: pointer;
+	padding: 3px;
+	right: 30px;
+	top: 30px;
+}
+
+#play {
+	position: absolute;
+	cursor: pointer;
+	padding: 5px;
+	right: 80px;
+	top: 28px;
+}
+
+#pwrdbybsd {
+	position: absolute;
+	padding: 10px;
+	right: 125px;
+	top: 1255px;
+}
+
+#beyes {
+	position: absolute;
+	padding: 10px;
+	right: 30px;
+	top: 1277px;
+}
+
+#snoopbar {
+	position: absolute;
+	padding: 0px;
+	right: 2px;
+	top: 785px;
+}
+
+#title {
+	position: center;
+	padding: 5px;
+}
+
+#ppcleo {
+	position: absolute;
+	padding: 0px;
+	left: 250px;
+	top: 650px;
+}
+
+#ppcbsd {
+	position: absolute;
+	padding: 0px;
+	left: 545px;
+	top: 665px;
+}
+
+#ppclinux {
+	position: absolute;
+	padding: 0px;
+	left: 850px;
+	top: 650px;
+}
+
+#codolra {
+	position: absolute;
+	padding: 0px;
+	left: 420px;
+	top: 650px;
+}
+
+
+#github {
+  position: absolute;
+  padding: 0px;
+  top: 0px;
+  left: 0px;
+  transform: scaleX(-1);
+}
+
+
+
+/* how the hell did people make sites before css lmao */
