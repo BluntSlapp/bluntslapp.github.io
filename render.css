@@ -126,6 +126,13 @@ body {
   transform: scaleX(-1);
 }
 
+#magmake {
+	position: absolute;
+	padding: 0px;
+	top: 650px;
+	left: 700px;
+}
+
 
 
 /* how the hell did people make sites before css lmao */
