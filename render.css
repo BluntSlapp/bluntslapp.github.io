@@ -1,7 +1,14 @@
+@font-face {
+  font-family: 'DotGothic16';
+  src: url(https://bluntslapp.github.io/fonts/DotGothic16-Regular.woff2) format('woff2');
+  src: url(https://bluntslapp.github.io/fonts/DotGothic16-Regular.woff) format('woff');
+  src: url(https://bluntslapp.github.io/fonts/DotGothic16-Regular.ttf) format('truetype');
+}
 
 body {
 	background-image: url("https://bluntslapp.github.io/res/purpletexture.png");
 	background-color: #000000;
+	font-family: 'DotGothic16', 'Comic Sans MS';
 	}
 
 #ppclnk {
