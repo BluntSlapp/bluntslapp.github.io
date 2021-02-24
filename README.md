@@ -1,6 +1,6 @@
-#Sam's Workshop.
+Sam's Workshop.
 
-#Current Plans (In order of importance)
+Current Plans (In order of importance)
 
 
 1. Add ability to control volume
@@ -11,7 +11,7 @@
 
 4. Make the Music hud float over other elements
 
-#Future Plans
+Future Plans
 
 1. Add themes (light, dark, etc)
 
