@@ -7,12 +7,12 @@ body {
 	
 @font-face {
   font-family: 'DotGothic16-Regular';
-  src: url('https://bluntslapp.github.io/DotGothic16-Regular.eot'); /* IE9 Compat Modes */
-  src: url('https://bluntslapp.github.io/DotGothic16-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://bluntslapp.github.io/DotGothic16-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('https://bluntslapp.github.io/DotGothic16-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-       url('https://bluntslapp.github.io/DotGothic16-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('https://bluntslapp.github.io/DotGothic16-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+  src: url('https://bluntslapp.github.io/fonts/DotGothic16-Regular.eot'); /* IE9 Compat Modes */
+  src: url('https://bluntslapp.github.io/fonts/DotGothic16-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://bluntslapp.github.io/fonts/DotGothic16-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('https://bluntslapp.github.io/fonts/DotGothic16-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://bluntslapp.github.io/fonts/DotGothic16-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://bluntslapp.github.io/fonts/DotGothic16-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
 #ppclnk {
