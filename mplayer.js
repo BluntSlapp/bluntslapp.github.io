@@ -39,6 +39,11 @@
       file:"https://bluntslapp.github.io/res/BGM/yi.mp3",
       duration:"04:21"
     },
+    {
+      name:"Infinite Sun - Kula Shaker",
+      file:"https://bluntslapp.github.io/res/BGM/is.mp3",
+      duration:"04:07"
+    },
   ]
 
   for (var i = 0; i < listAudio.length; i++) {
