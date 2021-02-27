@@ -11,6 +11,8 @@ body {
 	font-family: 'DotGothic16', 'Comic Sans MS';
 	transition: background-color .5s;
 	}
+	
+#wholepage { position:absolute; margin:0px; width:100%; }
 
 #ppclnk {
 	position: absolute;
