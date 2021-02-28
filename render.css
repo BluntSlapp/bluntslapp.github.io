@@ -31,28 +31,28 @@ body {
 #menu-home {
 	position: absolute;
 	padding: 0px;
-	left: 80px;
+	left: 65px;
 	top: 400px;
 }
 
 #menu-pages {
 	position: absolute;
 	padding: 0px;
-	left: 80px;
+	left: 65px;
 	top: 500px;
 }
 
 #menu-links{
 	position: absolute;
 	padding: 0px;
-	left: 80px;
+	left: 65px;
 	top: 600px;
 }
 
 #menu-about{
 	position: absolute;
 	padding: 0px;
-	left: 80px;
+	left: 65px;
 	top: 700px;
 }
 
