@@ -104,22 +104,22 @@ body {
 #ppcleo {
 	position: absolute;
 	padding: 0px;
-	left: 250px;
-	top: 400px;
+	left: 25px;
+	top: 500px;
 }
 
 #ppcbsd {
 	position: absolute;
 	padding: 0px;
-	left: 545px;
-	top: 415px;
+	left: 320px;
+	top: 515px;
 }
 
 #ppclinux {
 	position: absolute;
 	padding: 0px;
-	left: 850px;
-	top: 400px;
+	left: 625px;
+	top: 490px;
 }
 
 #codolra {
