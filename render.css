@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: url("https://bluntslapp.github.io/res/darkpurpleather.bmp");
+	background-image: url("https://bluntslapp.github.io/res/darkpurpleather.BMP");
 	background-color: #000000;
 	font-family: 'DotGothic16', 'Comic Sans MS';
 	transition: background-color .5s;
