@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+<title>Sam's Workbench</title>
+<meta property="og:title" content="Sam's workbench">
+<link rel="stylesheet" href="https://bluntslapp.github.io/render.css">
+<link rel="icon" type="image/png" href="https://bluntslapp.github.io/favicon.ico">
+
+<body>
+
+<center>
+<img src="https://bluntslapp.github.io/res/title.png" alt="title" id="title">
+<img src="https://bluntslapp.github.io/res/bar.gif" alt="lightbar" id="lightbar">
+</center>
+<a href="https://github.com/BluntSlapp">
+<img alt="githubpage" src="https://bluntslapp.github.io/res/github-corner.png" id="github">
+</a>
+
+<audio id="myAudio" ontimeupdate="onTimeUpdate()">
+  <source id="source-audio" src="" type="audio/mpeg">
+  Your browser does not support this audio element :(
+</audio>
+
+<div class="player-ctn">
+  <div class="infos-ctn">
+    <div class="timer">00:00</div>
+    <div class="title"></div>
+    <div class="duration">00:00</div>
+  </div>
+  <div id="Progress">
+    <div id="Bar"></div>
+  </div>
+  <div class="btn-ctn">
+     <div class="btn-action first-btn" onclick="previous()">
+        <div id="btn-faws-back">
+          <i class='fas fa-step-backward'></i>
+        </div>
+     </div>
+     <div class="btn-action" onclick="rewind()">
+        <div id="btn-faws-rewind">
+          <i class='fas fa-backward'></i>
+        </div>
+     </div>
+     <div class="btn-action" onclick="toggleAudio()">
+        <div id="btn-faws-play-pause">
+          <i class='fas fa-play' id="icon-play"></i>
+          <i class='fas fa-pause' id="icon-pause" style="display: none"></i>
+        </div>
+     </div>
+     <div class="btn-play" onclick="forward()">
+        <div id="btn-faws-forward">
+          <i class='fas fa-forward'></i>
+        </div>
+     </div>
+     <div class="btn-action" onclick="next()">
+        <div id="btn-faws-next">
+          <i class='fas fa-step-forward'></i>
+        </div>
+     </div>
+     <div class="btn-mute" id="toggleMute" onclick="toggleMute()">
+        <div id="btn-faws-volume">
+          <i id="icon-vol-up" class='fas fa-volume-up'></i>
+          <i id="icon-vol-mute" class='fas fa-volume-mute' style="display: none"></i>
+        </div>
+     </div>
+  </div>
+  <div class="playlist-ctn"></div>
+</div>
+<script src="https://bluntslapp.github.io/mplayer.js"></script>
+
+  <table border=3 width=1888px height=50px align="center">
+    <tr>
+      <td width=100% align="center">
+	<a href="https://bluntslapp.github.io/index.html">
+	<img alt="m-home" src="https://bluntslapp.github.io/res/menu/home.png" id="menu-home">
+	</a>
+	<a href="https://bluntslapp.github.io/pages.html">
+	<img alt="m-pages" src="https://bluntslapp.github.io/res/menu/pages.png" id="menu-pages">
+	</a>
+	<a href="https://bluntslapp.github.io/links.html">
+	<img alt="m-links" src="https://bluntslapp.github.io/res/menu/links.png" id="menu-links">
+	</a>
+	<a href="https://bluntslapp.github.io/about.html">
+	<img alt="m-about" src="https://bluntslapp.github.io/res/menu/about.png" id="menu-about">
+	</a>
+	  </td>
+	</tr>
+  </table>
+  
+
+  <table border=3 width=1888px align="center">
+    <tr>
+      <td  width=100% height=98% align="center">
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		
+		<p style="color:#696aaa">
+		<h1> Links </h1>
+		<br>
+		<a href="https://xosft.dev/wiki/">
+		Xbox Research Wiki
+		</a>
+		<br>
+		<a href="https://extract.bbbike.org/">
+		BBBike OpenStreetMap Extractor
+		</a>
+		<br>
+		</p>
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </tr>
+  </table>
+</body>
+</html>
