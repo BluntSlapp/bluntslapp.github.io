@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: url("https://bluntslapp.github.io/res/darkpurpleather.png");
+	background-image: url("https://bluntslapp.github.io/res/purpletexture.png");
 	background-color: #000000;
 	font-family: 'DotGothic16', 'Comic Sans MS';
 	transition: background-color .5s;
@@ -125,8 +125,8 @@ body {
 #codolra {
 	position: absolute;
 	padding: 0px;
-	left: 200px;
-	top: 500px;
+	left: 1100px;
+	top: 525px;
 }
 
 
@@ -141,8 +141,8 @@ body {
 #magmake {
 	position: absolute;
 	padding: 0px;
-	top: 475px;
-	left: 500px;
+	top: 500px;
+	left: 700px;
 }
 
 /* Music Player */
