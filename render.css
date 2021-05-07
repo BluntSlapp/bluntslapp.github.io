@@ -15,45 +15,34 @@ body {
 #wholepage { position:absolute; margin:0px; width:100%; }
 
 #ppclnk {
-	position: absolute;
-	left: 25px;
-	top: 490px;
-	padding: 0px;
+	position: relative;
+	padding-bottom: 25px;
 }
 
 #armlnk {
-	position: absolute;
-	padding: 0px;
-	left: 25px;
-	top: 575px;
+	position: relative;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
 #menu-home {
-	position: absolute;
-	padding: 0px;
-	left: 400px;
-	top: 375px;
+	position: relative;
+	padding-left: 375px;
 }
 
 #menu-pages {
-	position: absolute;
-	padding: 0px;
-	left: 600px;
-	top: 375px;
+	position: relative;
+	padding-left: 175px;
 }
 
 #menu-links{
-	position: absolute;
-	padding: 0px;
-	right: 600px;
-	top: 375px;
+	position: relative;
+	padding-right: 375px;
 }
 
 #menu-about{
-	position: absolute;
-	padding: 0px;
-	right: 400px;
-	top: 375px;
+	position: relative;
+	padding-right: 175px;
 }
 
 
@@ -71,27 +60,6 @@ body {
 	padding: 5px;
 	right: 80px;
 	top: 28px;
-}
-
-#pwrdbybsd {
-	position: absolute;
-	padding: 10px;
-	right: 125px;
-	top: 1260px;
-}
-
-#beyes {
-	position: absolute;
-	padding: 10px;
-	right: 30px;
-	top: 1282px;
-}
-
-#snoopbar {
-	position: absolute;
-	padding: 0px;
-	right: 2px;
-	top: 735px;
 }
 
 #title {
@@ -123,10 +91,8 @@ body {
 }
 
 #codolra {
-	position: absolute;
-	padding: 0px;
-	left: 1100px;
-	top: 525px;
+	position: relative;
+	padding-bottom: 25px;
 }
 
 
@@ -139,10 +105,8 @@ body {
 }
 
 #magmake {
-	position: absolute;
-	padding: 0px;
-	top: 500px;
-	left: 700px;
+	position: relative;
+	padding-bottom: 25px;
 }
 
 /* Music Player */

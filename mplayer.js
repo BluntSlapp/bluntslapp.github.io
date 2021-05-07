@@ -30,20 +30,20 @@
 
   var listAudio = [
     {
-      name:"Sativa Feva - Resinated",
+      name:"Codine Dreaming - Kodak Black(feat. Lil Wayne)",
       file:"https://bluntslapp.github.io/res/BGM/SF.mp3",
-      duration:"03:01"
+      duration:"04:25"
     },
     {
-      name:"Yes I - Kash'd Out",
-      file:"https://bluntslapp.github.io/res/BGM/yi.mp3",
-      duration:"04:21"
-    },
-    {
-      name:"Infinite Sun - Kula Shaker",
+      name:"Taking A Walk - Trippie Redd",
       file:"https://bluntslapp.github.io/res/BGM/is.mp3",
-      duration:"04:07"
+      duration:"02:02"
     },
+	{
+	  name:"Hate Bein' Sober - Chief Keef",
+	  file:"https://bluntslapp.github.io/res/BGM/HBS-CK.mp3",
+	  duration:"4:40"
+	},
   ]
 
   for (var i = 0; i < listAudio.length; i++) {
