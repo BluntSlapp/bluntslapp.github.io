@@ -12,7 +12,7 @@ body {
 	transition: background-color .5s;
 	}
 	
-#wholepage { position:absolute; margin:0px; width:100%; }
+#wholepage {width:100%;}
 
 #ppclnk {
 	position: relative;
@@ -45,28 +45,10 @@ body {
 	padding-right: 175px;
 }
 
-
-#pause {
-	position: absolute;
-	cursor: pointer;
-	padding: 3px;
-	right: 30px;
-	top: 30px;
-}
-
-#play {
-	position: absolute;
-	cursor: pointer;
-	padding: 5px;
-	right: 80px;
-	top: 28px;
-}
-
 #title {
 	position: center;
 	padding: 5px;
-	margin-left: 267px;
-	margin-right: 267px;
+	margin-top: 25px;
 }
 
 #ppcleo {
@@ -98,6 +80,7 @@ body {
 
 #github {
   position: absolute;
+  margin: 0px;
   padding: 0px;
   top: 0px;
   left: 0px;
@@ -114,5 +97,5 @@ body {
 	padding: 0px;
 	margin: 0px;
 	left: 755px;
-	top: 125px;
+	top: 150px;
 }
