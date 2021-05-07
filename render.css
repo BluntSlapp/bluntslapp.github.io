@@ -28,25 +28,21 @@ body {
 #menu-home {
 	position: relative;
 	padding-left: 375px;
-	z-index: -10;
 }
 
 #menu-pages {
 	position: relative;
 	padding-left: 175px;
-	z-index: -10;
 }
 
 #menu-links{
 	position: relative;
 	padding-right: 375px;
-	z-index: -10;
 }
 
 #menu-about{
 	position: relative;
 	padding-right: 175px;
-	z-index: -10;
 }
 
 #title {
