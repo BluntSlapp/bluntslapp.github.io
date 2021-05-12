@@ -72,11 +72,6 @@ body {
 	top: 490px;
 }
 
-#codolra {
-	position: relative;
-	padding-bottom: 25px;
-}
-
 
 #github {
   position: absolute;
@@ -85,23 +80,4 @@ body {
   top: 0px;
   left: 0px;
   transform: scaleX(-1);
-}
-
-#magmake {
-	position: relative;
-	padding-bottom: 25px;
-}
-
-#lightbar {
-	position: absolute;
-	padding: 0px;
-	margin: 0px;
-	left: 755px;
-	top: 150px;
-}
-
-#catgif {
-	position: absolute;
-	right: 20px;
-	margin-top:13px;
 }
