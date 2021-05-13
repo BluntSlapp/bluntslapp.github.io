@@ -14,17 +14,6 @@ body {
 	
 #wholepage {width:100%;}
 
-#ppclnk {
-	position: relative;
-	padding-bottom: 25px;
-}
-
-#armlnk {
-	position: relative;
-	padding-top: 25px;
-	padding-bottom: 25px;
-}
-
 #menu-home {
 	position: relative;
 	padding-left: 375px;
@@ -46,32 +35,8 @@ body {
 }
 
 #title {
-	position: center;
-	padding: 5px;
-	margin-top: 25px;
+	position: relative;
 }
-
-#ppcleo {
-	position: absolute;
-	padding: 0px;
-	left: 25px;
-	top: 500px;
-}
-
-#ppcbsd {
-	position: absolute;
-	padding: 0px;
-	left: 320px;
-	top: 515px;
-}
-
-#ppclinux {
-	position: absolute;
-	padding: 0px;
-	left: 625px;
-	top: 490px;
-}
-
 
 #github {
   position: absolute;
