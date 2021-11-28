@@ -12,29 +12,9 @@ body {
 	transition: background-color .5s;
 	}
 
-#menu-home {
-	position: relative;
-	padding-left: 375px;
-}
-
-#menu-pages {
-	position: relative;
-	padding-left: 175px;
-}
-
-#menu-links{
-	position: relative;
-	padding-right: 375px;
-}
-
-#menu-about{
-	position: relative;
-	padding-right: 175px;
-}
-
 #title {
 	position: relative;
-	padding-bottom: 50px;
+	padding-bottom: 45px;
 }
 
 #github {
